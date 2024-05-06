@@ -1,0 +1,9 @@
+{
+  "name": "do",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/do/src",
+  "projectType": "application",
+  "tags": [],
+  "// targets": "to see all targets run: nx show project do --web",
+  "targets": {}
+}
